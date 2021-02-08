@@ -77,12 +77,12 @@
 ``npm install hexo-deployer-git --save``
 ###### 注意：这个命令需要在文件夹中安装，如果更换文件夹需要重新安装。
 ## 修改配置文件找到"_config.yml" 打开，然后输入配置
-``theme: landscape
+``theme: landscape``
 
-deploy:
+``deploy:``
 
-  type: git
+  ``type: git``
 
-  repository: 你的GitHub仓库地址
+  ``repository: 你的GitHub仓库地址``
 
-  branch: master``
+  ``branch: master``
