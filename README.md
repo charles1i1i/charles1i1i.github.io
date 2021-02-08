@@ -86,3 +86,14 @@
   ``repository: 你的GitHub仓库地址``
 
   ``branch: master``
+## Hexo 提交
+###### Hexo 的提交也分为三个步骤
+1. hexo clean
+1. hexo generate
+1. hexo deploy
+### hexo clean
+#### 清除缓存
+### hexo generate
+#### 生成静态文件 同 hexo g
+### hexo deploy
+#### 部署文件到博客
