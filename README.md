@@ -97,3 +97,10 @@
 #### 生成静态文件 同 hexo g
 ### hexo deploy
 #### 部署文件到博客
+## java学习map
+######遍历map
+`` for (Map.Entry<Integer,String> entry : map.entrySet()){
+
+   System.out.println("Key = " + entry.getKey() +
+                  ", Value = " + entry.getValue());
+ }``
